@@ -1,6 +1,6 @@
 Letícia Medeiros Costa Gonçalves
 
-Milena Lopes Calasans de Souza
+Milena Lopes Calasans de Souza - https://github.com/iMilena/Arquitetura-de-computadores
 
 Laís Medeiros Costa Gonçalves - https://github.com/LaisMedeiros02/Trabalho-de-Arquitetura-de-Computadores
 
