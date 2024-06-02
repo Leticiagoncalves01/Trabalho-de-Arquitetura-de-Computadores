@@ -1,4 +1,4 @@
-Letícia Medeiros Costa Gonçalves
+Letícia Medeiros Costa Gonçalves - https://github.com/Leticiagoncalves01/Trabalho-de-Arquitetura-de-Computadores
 
 Milena Lopes Calasans de Souza - https://github.com/iMilena/Arquitetura-de-computadores
 
